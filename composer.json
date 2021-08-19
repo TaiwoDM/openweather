@@ -1,0 +1,19 @@
+{
+    "name": "tdmayowa/fetch_data_from_restcountries_and_openweathermap",
+    "description": "Simple fetch data from API project",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Tdmayowa\\FetchDataFromRestcountriesAndOpenweathermap\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Taiwo Daniel Mayowa",
+            "email": "taiwodaniel1998@gmail.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.3"
+    }
+}
